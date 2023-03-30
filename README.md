@@ -1,35 +1,22 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+# Presentación
 
-Bienvenidos a
-# Programación con objetos I
+## Franco Leonel Casasola
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Soy ***Franco Casasola***, mis amigos me dicen Casa, tengo 22 años. Ingrese en la universidad en el 2020, en la carrera de ***Ingenieria Electrica***, pero despues cursar Introduccion a la Programacion decidí cambiarme a la ***Licenciatura en Informatica***.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Actualmente tengo aprobadas las siguientes materias:
+- Matematicas para Informatica 1
+- Introduccion a logica y problemas computacionales
+- Organizacion de Computadoras
+- Nuevos Entornos
+- Taller de lenguajes de marcado y tecnologias web
+- Pragramacion estructurada
+- Matematicas para Informatica 2
+- Ingles 1
+- materia UNAHUR
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+Algunos de mis hobbies son jugar al futbol, tocar la guitarra y el Counter-Strike
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+![foto personal|50](./assets/Foto.jpg)
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+foto de perfil de discord, antes de cortarme el pelo : )
